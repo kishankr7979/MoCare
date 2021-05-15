@@ -1,0 +1,25 @@
+.start1{
+	color: grey;
+	text-align: left;
+	padding-left: 2em; 
+	display: inline-block;
+	flex-direction: row;
+	flex-wrap: wrap;
+	max-width: 70%;
+
+
+}
+.image{
+	display: inline-block;
+	flex-direction: row;
+	flex-wrap: wrap;
+	
+
+}
+.image img{
+	height: 400px;
+	width: 400px;
+	margin-left: 15em;
+
+
+}
